@@ -1,2 +1,2 @@
-# job-rest
-REST api for job manager.
+# job-ui
+UI for job manager.
